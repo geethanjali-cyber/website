@@ -300,7 +300,7 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
+    email: 'Geethuchandra2006@gmail.com',
     linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
