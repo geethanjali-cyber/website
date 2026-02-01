@@ -128,14 +128,14 @@ const siteConfig = {
       cardImage: getAsset('images/project/economic_analysis.png'),
       description:
         'A data analysis project studying trends in GDP growth, inflation, and unemployment using publicly available datasets.',
-      githubLink: 'https://github.com/your-username/economic-indicators-analysis',
+      Githublink: 'https://github.com/your-username/economic-indicators-analysis',
     },
     {
       title: 'Household Budget & Inflation Study',
       cardImage: getAsset('images/project/inflation_study.png'),
       description:
         'A small study analyzing how inflation impacts household consumption patterns using Excel-based analysis.',
-      githubLink: 'https://github.com/your-username/inflation-study',
+      Githublink: 'https://github.com/geethanjali-cyber',
     },
   ],
 
@@ -173,7 +173,7 @@ const siteConfig = {
   contact: {
     email: 'your-email@gmail.com',
     linkedin: 'https://www.linkedin.com/in/geethanjali-s-pillai/',
-    github: 'https://github.com/your-username',
+    github: 'https://github.com/geethanjali-cyber',
   },
 };
 
