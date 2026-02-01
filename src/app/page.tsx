@@ -134,9 +134,9 @@ export default function Home() {
               )}
               <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
               <p className="text-lg mb-4">{project.description}</p>
-              {project.Githublink && (
+              {project.githubLink && (
                 <Link
-                  href={project.Githublink}
+                  href={project.githubLink}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-500 hover:underline mt-auto"
