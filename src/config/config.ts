@@ -176,6 +176,7 @@ const siteConfig = {
     linkedin: 'https://www.linkedin.com/in/geethanjali-s-pillai/',
     github: 'https://github.com/geethanjali-cyber',
     googleScholar: undefined,
+    orcid: undefined,
   },
 };
 
