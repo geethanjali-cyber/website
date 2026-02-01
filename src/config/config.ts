@@ -175,6 +175,7 @@ const siteConfig = {
     email: 'your-email@gmail.com',
     linkedin: 'https://www.linkedin.com/in/geethanjali-s-pillai/',
     github: 'https://github.com/geethanjali-cyber',
+    googleScholar: undefined,
   },
 };
 
