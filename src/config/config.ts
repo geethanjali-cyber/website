@@ -172,8 +172,8 @@ const siteConfig = {
      CONTACT
      ========================= */
   contact: {
-    email: 'your-email@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/geethanjali-s-pillai/',
+    email: 'geethanjali.pillai@baecoh.christuniversity.in',
+    linkedin: 'https://www.linkedin.com/in/geethanjali-pillai-027035316/',
     github: 'https://github.com/geethanjali-cyber',
     googleScholar: undefined,
     orcid: undefined,
