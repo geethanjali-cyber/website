@@ -143,16 +143,17 @@ const siteConfig = {
      RESEARCH INTERESTS
      ========================= */
   research: [
-    {
-      title: 'Undergraduate Research Interests in Economics',
-      authors: 'Geethanjali S Pillai',
-      conferences: '—',
-      researchYr: 2025,
-      image: getAsset('images/research/economics.png'),
-      abstract:
-        'Interested in applied economics, financial markets, public policy, and data-driven economic analysis. Aspires to engage in formal academic research during postgraduate studies.',
-    },
-  ],
+  {
+    title: 'Undergraduate Research Interests in Economics',
+    authors: 'Geethanjali S Pillai',
+    conferences: '—',
+    researchYr: 2025,
+    image: getAsset('images/research/economics.png'),
+    abstract:
+      'Interested in applied economics, financial markets, public policy, and data-driven economic analysis. Aspires to engage in formal academic research during postgraduate studies.',
+    link: undefined, // 👈 add this
+  },
+],
 
   /* =========================
      BOOKS / INSPIRATION
